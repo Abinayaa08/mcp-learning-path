@@ -166,24 +166,8 @@ This is a Streamlit-based web application that generates a personalized learning
 
 ---
 
-## 6. **Sample Diagram (for Interview)**
 
-```mermaid
-flowchart TD
-    A[User Input: Goal & Config] --> B[Streamlit UI]
-    B --> C[run_agent_sync (Python)]
-    C --> D[LLM: Generate Learning Path]
-    D --> E[Fetch YouTube Content via Pipedream]
-    D --> F[Organize in Drive/Notion via Pipedream]
-    E & F --> G[Display Learning Path in UI]
-```
-
----
-
-## 7. **Summary Statement**
+## 6. **Summary Statement**
 
 > "In summary, this project is a smart learning path generator that leverages AI and cloud integrations to help users learn any topic efficiently using curated YouTube content, with seamless organization in Google Drive or Notion. It demonstrates skills in Python, Streamlit, API integration, and practical use of large language models."
 
----
-
-If you want, I can help you prepare a demo script, slides, or even a more detailed technical explanation for your interview. Let me know what you need!
